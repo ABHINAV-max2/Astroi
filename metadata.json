@@ -2,5 +2,7 @@
   "name": "Asteroids Vector Arcade",
   "description": "Classic vector-line Asteroids arcade game featuring realistic inertial drift physics, procedural asteroid destruction, Web Audio synthesizer effects, and phosphor CRT aesthetics.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
